@@ -1,22 +1,13 @@
 # flutter_parse_app
 
-A new Flutter project.
+This project is a starting point for a Parse - Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Open `./lib/application_constants.dart`
+2. Go to your Craft application settings page and copy/paste the needed credentials. 
 
-To start, edit `./lib/applications_constants.dart` and go to `Craft > My Apps > Your App > Settings` 
-and copy and replace the corresponding values of the ff:
-
-```
-const String keyParseApplicationId = 'APPLICATION_ID';
-const String keyParseClientKey = 'CLIENT_KEY';
-const String keyParseServerUrl = 'https://<subdomain>.apps.dev.thebrewery.app';
-const String keyLiveQuery = 'wss://<subdomain>.apps.dev.thebrewery.app';
-```
-
-And you are ready to run your new Flutter app.
+>Tested on Flutter (Channel stable, 2.2.1, on macOS 11.4) and Dart SDK version: 2.13.1 (stable)
 
 
 A few resources to get you started if this is your first Flutter project:
