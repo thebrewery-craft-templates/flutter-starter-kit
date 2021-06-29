@@ -18,3 +18,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+
+## Packages - SDK
+
+These are the available packages in this repository.
+
+| Plugin | Pub | explanation|
+|--------|-----|------------|
+| [parse_server_sdk](./packages/dart) | [![pub package](https://img.shields.io/pub/v/parse_server_sdk.svg)](https://pub.dev/packages/parse_server_sdk) | a dart package that lets you communicate with the parse server |
+| [parse_server_sdk_flutter](./packages/flutter) | [![pub package](https://img.shields.io/pub/v/parse_server_sdk_flutter.svg)](https://pub.dev/packages/parse_server_sdk_flutter) | a flutter package that lets you communicate with the parse server |
+
+
+## REST API Reference
+
+- https://docs.parseplatform.org/rest/guide/
