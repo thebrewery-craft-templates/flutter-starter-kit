@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Packages - SDK
 
-These are the available packages in this repository.
+These are the available SDK packages.
 
 | Plugin | Pub | explanation|
 |--------|-----|------------|
